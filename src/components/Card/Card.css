@@ -1,0 +1,6 @@
+.Card {
+  background: cornflowerblue;
+  padding: 20px;
+  color: white;
+  box-shadow: 4px 4px 8px #ccc;
+}
