@@ -1,14 +1,13 @@
 {
-  "name": "javascript-app-template",
+  "name": "react-playground",
   "version": "0.0.1",
   "private": true,
-  "author": "neuefische GmbH",
+  "author": "Nils Ammersken",
   "description": "",
   "keywords": [],
   "license": "ISC",
   "contributors": [
-    "Lene Frei",
-    "Jerry Erbs"
+    "Nils Ammersken"
   ],
   "scripts": {
     "prettier:write": "prettier --write .",
@@ -54,12 +53,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neuefische/javascript-app-template.git"
+    "url": "git+https://github.com/AmmNJ/react-playground.git"
   },
   "bugs": {
-    "url": "https://github.com/neuefische/javascript-app-template/issues"
+    "url": "https://github.com/AmmNJ/react-playground/issues"
   },
-  "homepage": "https://github.com/neuefische/javascript-app-template#readme",
+  "homepage": "https://github.com/AmmNJ/react-playground#readme",
   "dependencies": {
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
